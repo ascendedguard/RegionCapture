@@ -1,0 +1,6 @@
+_Resharper.*/*
+RegionMeasure/bin
+RegionMeasure/obj
+*.suo
+*.ReSharper.user
+*StyleCop.Cache
